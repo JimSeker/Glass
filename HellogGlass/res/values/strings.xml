@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HellogGlass</string>
+    <string name="hello_world">Hello Glass, First project is working!</string>
+    <string name="action_settings">Settings</string>
+
+        <!-- The voice trigger used for launching general demos. -->
+    <string name="voice_trigger">Hello World</string>
+    
+    
+</resources>

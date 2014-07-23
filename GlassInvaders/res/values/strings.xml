@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassInvaders</string>
+    <string name="hello_world">Hello world!</string>
+    
+        <!-- The voice trigger used for launching general demos. -->
+    <string name="voice_trigger">Glass Invaders</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="shoot">shoot</string>
+    <string name="exit">exit</string>
+</resources>
