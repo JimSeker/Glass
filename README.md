@@ -15,4 +15,6 @@ LiveCardGameStat  using the LiveCard with a low frequency update.
 
 LiveCard GameStat uses the LiveCardGameStat, but adds the text to speech to read the scores.  Also add the IPC (ibinder) stuff so the menuActivity can call be to the service to do the work.
 
+SensorDemo shows some of the hardware sensors: LightSensor, RotationVectorSensor, Accelerator, and Magnetic Sensor.  The data is displayed to the screen.
+
 These are example code for University of Wyoming, Cosc 4730 Mobile Programming course. All examples are for google glass and android.
