@@ -16,8 +16,8 @@ import android.widget.RemoteViews;
 /*
  * This is google's example as shown on the live-cards web page
  * https://developers.google.com/glass/develop/gdk/live-cards
+ * There several fixes I had to make as well.
  * 
- * with many fixes and the readaload addition.
  */
 
 

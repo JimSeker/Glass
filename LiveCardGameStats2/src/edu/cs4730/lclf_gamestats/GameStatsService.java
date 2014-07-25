@@ -19,7 +19,7 @@ import android.widget.RemoteViews;
  * This is google's example as shown on the live-cards web page
  * https://developers.google.com/glass/develop/gdk/live-cards
  * 
- * with many fixes and the readaload addition.
+ * with many fixes and the readaload addition so there is text to speech.
  */
 
 
